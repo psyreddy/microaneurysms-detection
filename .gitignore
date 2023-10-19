@@ -1,3 +1,5 @@
 .DS_Store
 *.h5
 *.keras
+dataSets/preprocessed/
+dataSets/
